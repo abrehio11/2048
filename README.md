@@ -1,0 +1,1 @@
+This is a version of 2048 that uses an AI. It demonstrates how algorithms are used while making the AI that affect the asympototic complexitites. There's an exponetially slow version, that's a great strategy and a super fast version that is an awful strategy.
